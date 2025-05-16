@@ -5,7 +5,7 @@
 * Authentication                      [2/14] 
 * Path traversal                      [6/6]
 * Command injection                   [3/5] (2 labs require Burp Suite Professional)
-* Business logic vulnerabilities      [6/12]
+* Business logic vulnerabilities      [10/12]
 * Information disclosure              [5/5]
 * Access control                      [13/13]
 * File upload vulnerabilities         [7/7]
