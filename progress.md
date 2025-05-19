@@ -2,7 +2,7 @@
 
 ## Server-side topics
 * SQL injection                       [12/18] (2 labs require Burp Suite Professional)
-* Authentication                      [2/14] 
+* Authentication                      [11/14] 
 * Path traversal                      [6/6]
 * Command injection                   [3/5] (2 labs require Burp Suite Professional)
 * Business logic vulnerabilities      [10/12]
