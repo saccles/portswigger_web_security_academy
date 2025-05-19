@@ -1,4 +1,5 @@
-# 
+# Fully-autonomous proof-of-concept script for Portswigger Lab:                  
+# "Brute-forcing a stay-logged-in cookie"                         
 
 import hashlib
 import base64
