@@ -2,22 +2,22 @@
 
 ## Server-side topics
 * SQL injection                       [12/18] (2 labs require Burp Suite Professional)
-* Authentication                      [11/14] 
+* Authentication                      [14/14] 
 * Path traversal                      [6/6]
 * Command injection                   [3/5] (2 labs require Burp Suite Professional)
 * Business logic vulnerabilities      [10/12]
 * Information disclosure              [5/5]
 * Access control                      [13/13]
 * File upload vulnerabilities         [7/7]
-* Race conditions                     [1/6]
+* Race conditions                     [5/6]
 * Server-side request forgery (SSRF)  [5/7] (2 labs require Burp Suite Professional)
 * XXE injection                       [7/9] (2 labs require Burp Suite Professional)
-* NoSQL injection                     [1/4]
-* API testing                         [1/5]
-* Web cache deception                 [0/5] 
+* NoSQL injection                     [3/4]
+* API testing                         [5/5]
+* Web cache deception                 [4/5] 
     
 ## Client-side topics               
-* Cross-site scripting (XSS)          [3/30] (3 labs require Burp Suite Professional)
+* Cross-site scripting (XSS)          [11/30] (3 labs require Burp Suite Professional)
 * Cross-site request forgery (CSRF)   [4/12]    
 * Cross-origin resource sharing (CORS)[0/3]
 * Clickjacking                        [0/5]    
