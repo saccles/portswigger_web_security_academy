@@ -1,0 +1,3 @@
+[submodule "create_lab_directory_script"]
+	path = create_lab_directory_script
+	url = ./create_lab_directory_script
