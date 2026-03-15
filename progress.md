@@ -1,5 +1,42 @@
 # Progress on Portswigger Web Security Academy topic-specific labs. 
 
+## Completed topics
+* Cross-origin resource sharing (CORS)[3/3]
+* Path traversal                      [6/6]
+* Access control                      [13/13]
+* Authentication                      [14/14] 
+* Information disclosure              [5/5]
+* File upload vulnerabilities         [7/7]
+* API testing                         [5/5]
+
+## Partially-completed topics (remaining labs require Burp Suite Professional)
+* XXE injection                       [7/9]
+* Server-side request forgery (SSRF)  [5/7] 
+* Command injection                   [3/5]
+
+## Remaining topics 
+* SQL injection                       [12/18] (2 labs require Burp Suite Professional)
+* Business logic vulnerabilities      [10/12]
+* Race conditions                     [5/6]
+* NoSQL injection                     [3/4]
+* Web cache deception                 [4/5]
+* Cross-site scripting (XSS)          [11/30] (3 labs require Burp Suite Professional)
+* Cross-site request forgery (CSRF)   [4/12]    
+* Clickjacking                        [0/5]    
+* DOM-based vulnerabilities           [0/7]  
+* WebSockets                          [1/3]
+* Insecure deserialization            [3/10]
+* Web LLM attacks                     [2/4]
+* GraphQL API vulnerabilities         [0/5]
+* Server-side template injection      [0/7]
+* Web cache poisoning                 [0/13]
+* HTTP Host header attacks            [0/7] (2 labs require Burp Suite Professional)
+* HTTP request smuggling              [0/21] 
+* OAuth authentication                [0/6] (1 lab requires Burp Suite Professional)
+* JWT attacks                         [0/8] 
+* Prototype pollution                 [0/10]
+* Essential skills                    [0/2]
+
 ## Server-side topics
 * SQL injection                       [12/18] (2 labs require Burp Suite Professional)
 * Authentication                      [14/14] 
@@ -19,13 +56,13 @@
 ## Client-side topics               
 * Cross-site scripting (XSS)          [11/30] (3 labs require Burp Suite Professional)
 * Cross-site request forgery (CSRF)   [4/12]    
-* Cross-origin resource sharing (CORS)[0/3]
+* Cross-origin resource sharing (CORS)[3/3]
 * Clickjacking                        [0/5]    
 * DOM-based vulnerabilities           [0/7]  
-* WebSockets                          [0/3]
+* WebSockets                          [1/3]
 
 ## Advanced topics                  
-* Insecure deserialization            [0/10]
+* Insecure deserialization            [3/10]
 * Web LLM attacks                     [2/4]
 * GraphQL API vulnerabilities         [0/5]
 * Server-side template injection      [0/7]
